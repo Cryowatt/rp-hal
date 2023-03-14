@@ -13,3 +13,4 @@ rp2040-hal = { path = "./rp2040-hal" }
 
 [patch.crates-io]
 rp2040-hal = { path = "./rp2040-hal" }
+usb-device = { path = "../usb-device" }
